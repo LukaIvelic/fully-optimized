@@ -4,6 +4,8 @@
     Uses THREE.js to implement shaders and pass image textures to
     them.
 
+    48.6MB memory usage 
+
     ----------------------- FLOW CHART -----------------------
     Initialize:
         - THREE.js Basic WebGLRenderer, PerspectiveCamera, Scene and Clock;
